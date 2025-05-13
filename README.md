@@ -17,8 +17,7 @@
 
 ---
 
-## 📈 GitHub Stats
-![Shreya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shreyat81&show_icons=true&theme=radical)
+
 
 ## 📫 Let's Connect
 [LinkedIn]((https://www.linkedin.com/in/shreya-tiwari18/))  • [Email](shreyat1818@gmail.com)
