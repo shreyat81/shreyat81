@@ -4,7 +4,7 @@
 💻 Software Engineer | ML Enthusiast | Researcher  
 🛠️ Currently working on: Wildlife Monitoring using AI, Loan Management App (React + Flask)  
 📚 Learning: Advanced ML,DevOps Basics, Data Structure And Algorithm 
-🧠 Areas of Interest: AI/ML, Web Development, HealthTech
+
 
 ---
 
