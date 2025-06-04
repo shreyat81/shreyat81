@@ -20,7 +20,11 @@
 
 
 ## 📫 Let's Connect
-[LinkedIn]((https://www.linkedin.com/in/shreya-tiwari18/))  • [Email](shreyat1818@gmail.com)
+### Connect with me:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shreya-tiwari18)
+[![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shreyat1818@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=firefox&logoColor=white)](https://your-portfolio-link.com)
 
 <!---
 shreyat81/shreyat81 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
