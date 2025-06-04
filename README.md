@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Shreya Tiwari!
+#  Hi there, I'm Shreya Tiwari!
 
 🎓 B.Tech CSE | 3rd Year Student @ Amity University Punjab  
 💻 Software Engineer | ML Enthusiast | Researcher  
@@ -9,7 +9,7 @@
 
 
 ---
-
+# Languages & Tools
 <p align="left">
   <img src="https://img.icons8.com/color/48/python.png" alt="Python" width="30" />
   <img src="https://img.icons8.com/color/48/c-plus-plus-logo.png" alt="C++" width="30" />
@@ -38,7 +38,7 @@
 
 
 
-## 📫 Let's Connect
+# Let's Connect
 
 
 <p align="left">
