@@ -3,7 +3,7 @@
 🎓 B.Tech CSE | 3rd Year Student @ Amity University Punjab  
 💻 Software Engineer | ML Enthusiast | Researcher  
 🎯 Ex-Intern at Bharat Electronics Limited (BEL), worked on web development and CI/CD pipelines  
-🛠️ Currently working on: Wildlife Monitoring using AI, Loan Management App (React + Flask)  
+🛠️ Currently working on: NLP Projects, llm  
 🎨 Creative Designing : Static posters and editing professional videos using tools like Premiere Pro, DaVinci Resolve, and CapCut  
 📚 Learning: Advanced ML, DevOps Basics, Data Structures and Algorithms   
 
