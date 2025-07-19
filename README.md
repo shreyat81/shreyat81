@@ -1,9 +1,9 @@
 #  Hi there, I'm Shreya Tiwari!
 
-🎓 B.Tech CSE | 3rd Year Student @ Amity University Punjab  
+🎓 B.Tech CSE | Final Year Student @ Amity University Punjab  
 💻 Software Engineer | ML Enthusiast | Researcher  
-🎯 Ex-Intern at Bharat Electronics Limited (BEL), worked on web development and CI/CD pipelines  
-🛠️ Currently working on: NLP Projects, llm  
+🎯 Ex-Intern at Bharat Electronics Limited (BEL) as Full stack developer  
+🛠️ Currently working on: NLP Projects, llm, Agentic AI  
 🎨 Creative Designing : Static posters and editing professional videos using tools like Premiere Pro, DaVinci Resolve, and CapCut  
 📚 Learning: Advanced ML, DevOps Basics, Data Structures and Algorithms   
 
