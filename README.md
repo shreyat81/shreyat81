@@ -50,11 +50,13 @@
     <img src="https://img.icons8.com/color/48/gmail-new.png" alt="Gmail" width="40" height="40" />
   </a>
   &nbsp;
-  <a href="https://leetcode.com/YOUR_LEETCODE_USERNAME/" target="_blank">
+  <a href="https://leetcode.com/shreya_tiwari1818/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="40" height="40" />
   </a>
 </p>
 
+## 🧠 LeetCode Stats
+[![LeetCode user](https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=LeetCode&query=totalSolved&url=https://leetcode-stats-api.herokuapp.com/shreya_tiwari1818&color=orange)](https://leetcode.com/shreya_tiwari1818/)
 <!---
 shreyat81/shreyat81 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
