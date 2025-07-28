@@ -54,7 +54,19 @@
 </p>
 
 ## 🧠 LeetCode Stats
-[![LeetCode user](https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=LeetCode&query=totalSolved&url=https://leetcode-stats-api.herokuapp.com/shreya_tiwari1818&color=orange)](https://leetcode.com/shreya_tiwari1818/)
+
+<!-- LEETCODE:START -->
+## 🧠 LeetCode Stats (Auto Updated)
+
+| Difficulty | Solved |
+|------------|--------|
+| 🟢 Easy     | 46    |
+| 🟡 Medium   | 48    |
+| 🔴 Hard     | 20    |
+| ✅ Total    | 114    |
+<!-- LEETCODE:END -->
+
+---
 <!---
 shreyat81/shreyat81 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
