@@ -1,5 +1,5 @@
 #  Hi there, I'm Shreya Tiwari!
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shreyat81&label=Profile%20views&color=0e75b6&style=flat" alt="shreyat81" /> </p>
 🎓 B.Tech CSE | Final Year Student @ Amity University Punjab  
 💻 Software Engineer | ML Enthusiast | Researcher | Writer | Graphic Designer<br>
 🎯 Ex-Intern at Bharat Electronics Limited (BEL) as Full stack developer  
