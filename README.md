@@ -4,7 +4,13 @@
 💻 Software Engineer | ML Enthusiast | Researcher | Writer | Graphic Designer<br>
 🎯 Ex-Intern at Bharat Electronics Limited (BEL) as Full stack developer  
 🛠️ Currently working on: NLP Projects, llm, Agentic AI  
+---
+## 🔥 GitHub Stats
 
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=shreyat81&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="46%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyat81&theme=tokyonight&layout=compact&hide_border=true&langs_count=6" />
+</p>
 
 ---
 # Languages & Tools
