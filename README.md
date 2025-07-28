@@ -17,29 +17,25 @@
 </p>
 
 ---
+
+
 # Languages & Tools
 <p align="left">
-  <img src="https://img.icons8.com/color/48/python.png" alt="Python" width="30" />
-  <img src="https://img.icons8.com/color/48/c-plus-plus-logo.png" alt="C++" width="30" />
-  <img src="https://img.icons8.com/color/48/html-5--v1.png" alt="HTML" width="30" />
-  <img src="https://img.icons8.com/color/48/css3.png" alt="CSS" width="30" />
-  <img src="https://img.icons8.com/ultraviolet/40/react.png" alt="React" width="30" />
- 
-  <img src="https://img.icons8.com/color/48/tailwindcss.png" alt="Tailwind CSS" width="30" />
-  
-  <img src="https://img.icons8.com/color/48/numpy.png" alt="NumPy" width="30" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="30" />
-  <img src="https://img.icons8.com/color/48/opencv.png" alt="OpenCV" width="30" />
-  
-  <img src="https://img.icons8.com/ios-filled/50/git.png" alt="Git" width="30" />
-  <img src="https://img.icons8.com/ios-glyphs/48/github.png" alt="GitHub" width="30" />
-  <img src="https://img.icons8.com/fluent/48/visual-studio-code-2019.png" alt="VS Code" width="30" />
-  <img src="https://img.icons8.com/ios-filled/50/jupyter.png" alt="Jupyter" width="30" />
-  <img src="https://img.icons8.com/color/48/jenkins.png" alt="Jenkins" width="30" />
-
-
-  <img src="https://img.icons8.com/color/48/adobe-premiere-pro.png" alt="Adobe Premiere Pro" width="30" title="Adobe Premiere Pro" />
-
+  <a href="https://www.python.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>
+  <a href="https://isocpp.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="40" height="40"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/></a>
+  <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/></a>
+  <a href="https://tailwindcss.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind" width="40" height="40"/></a>
+  <a href="https://opencv.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" alt="OpenCV" width="40" height="40"/></a>
+  <a href="https://numpy.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40"/></a>
+  <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/></a>
+  <a href="https://github.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/></a>
+  <a href="https://code.visualstudio.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/></a>
+  <a href="https://jupyter.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" alt="Jupyter" width="40" height="40"/></a>
+  <a href="https://www.jenkins.io/" target="_blank"><img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" width="40" height="40"/></a>
+  <a 
 </p>
 
 ---
