@@ -59,13 +59,18 @@
   </a>
 </p>
 
-## 🧠 LeetCode Stats
+
+---
+
+
+
+#  LeetCode Stats
 
 
 ![LeetCode Card](https://leetcard.jacoblin.cool/shreya_tiwari1818?theme=dark&font=baloo&ext=heatmap)
 
-<h2 align="center">🏅 My LeetCode Badges</h2>  
-<p align="center">
+<h2 align="left"> My LeetCode Badges</h2>  
+<p align="left">
   <!-- 50 Days Badge -->
   <a href="https://leetcode.com/shreya_tiwari1818/" target="_blank">
     <img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" alt="50 Days Badge" width="200" />
