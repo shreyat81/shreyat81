@@ -55,18 +55,8 @@
 
 ## 🧠 LeetCode Stats
 
-<!-- LEETCODE:START -->
-## 🧠 LeetCode Stats (Auto Updated)
 
-| Difficulty | Solved |
-|------------|--------|
-| 🟢 Easy     | 46    |
-| 🟡 Medium   | 48    |
-| 🔴 Hard     | 20    |
-| ✅ Total    | 114    |
-<!-- LEETCODE:END -->
-
----
+![LeetCode Card](https://leetcard.jacoblin.cool/shreya_tiwari1818?theme=dark&font=baloo&ext=heatmap)
 <!---
 shreyat81/shreyat81 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
