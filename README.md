@@ -1,7 +1,7 @@
 #  Hi there, I'm Shreya Tiwari!
 
 🎓 B.Tech CSE | Final Year Student @ Amity University Punjab  
-💻 Software Engineer | ML Enthusiast | Researcher | Writer | Graphic Designer
+💻 Software Engineer | ML Enthusiast | Researcher | Writer | Graphic Designer<br>
 🎯 Ex-Intern at Bharat Electronics Limited (BEL) as Full stack developer  
 🛠️ Currently working on: NLP Projects, llm, Agentic AI  
 
