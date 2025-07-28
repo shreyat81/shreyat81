@@ -61,12 +61,12 @@
 <h2 align="center">🏅 My LeetCode Badges</h2>  
 <p align="center">
   <!-- 50 Days Badge -->
-  <a href="https://leetcode.com/shreyatiwari/" target="_blank">
+  <a href="https://leetcode.com/shreya_tiwari1818/" target="_blank">
     <img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" alt="50 Days Badge" width="200" />
   </a>
 
   <!-- June Challenge Badge -->
-  <a href="https://leetcode.com/shreyatiwari/" target="_blank">
+  <a href="https://leetcode.com/shreya_tiwari1818/" target="_blank">
     <img src="https://leetcode.com/static/images/badges/2024/gif/2024-06.gif" alt="June Challenge Badge" width="200" />
   </a>
 </p>
