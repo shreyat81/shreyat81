@@ -79,6 +79,10 @@
   <a href="https://leetcode.com/shreya_tiwari1818/" target="_blank">
     <img src="https://leetcode.com/static/images/badges/2024/gif/2024-06.gif" alt="June Challenge Badge" width="200" />
   </a>
+
+ <a href="https://leetcode.com/shreya_tiwari1818/" target="_blank">
+  <img src="https://leetcode.com/static/images/badges/2024/gif/2024-07.gif" alt="July Challenge Badge" width="200" />
+</a>
 </p>
 <!---
 shreyat81/shreyat81 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
