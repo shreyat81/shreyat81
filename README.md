@@ -45,11 +45,11 @@
 
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/" target="_blank">
+  <a href="https://www.linkedin.com/in/shreya-tiwari18/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40" />
   </a>
   &nbsp;
-  <a href="mailto:your.email@gmail.com" target="_blank">
+  <a href="mailto:shreyat1818@gmail.com" target="_blank">
     <img src="https://img.icons8.com/color/48/gmail-new.png" alt="Gmail" width="40" height="40" />
   </a>
   &nbsp;
